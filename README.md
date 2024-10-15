@@ -14,3 +14,9 @@ This Data Analysis projects aims to generate insight into sales performance of t
 
 - SQL- Structured Query Language for Querying of Data
 - GitHub for Portfolio Building
+
+
+  ##### Data Cleaning and Preparation
+  1. Data Loading and Inspection
+  2. Hndling missing variables
+  3. Data Cleaning and Formatting
