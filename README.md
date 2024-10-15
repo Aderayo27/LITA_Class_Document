@@ -3,6 +3,7 @@ This is where i documented my first project while learning Data Analysis with In
 ## Project Title: E-commerce Sales Analysis
 
 ### Project Overview
+----
 This Data Analysis projects aims to generate insight into sales performance of the E-commerce over the past years
 
 
@@ -16,7 +17,9 @@ This Data Analysis projects aims to generate insight into sales performance of t
 - GitHub for Portfolio Building
 
 
-  ##### Data Cleaning and Preparation
+  ### Data Cleaning and Preparation
   1. Data Loading and Inspection
   2. Hndling missing variables
   3. Data Cleaning and Formatting
+
+  ### Exploratory of Data Analysis
