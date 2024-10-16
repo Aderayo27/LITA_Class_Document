@@ -3,6 +3,8 @@ This is where i documented my first project while learning Data Analysis with In
 ## Project Title: E-commerce Sales Analysis
 
 ### Project Overview
+
+[Project Overview](#project-overview)
 ----
 This Data Analysis projects aims to generate insight into sales performance of the E-commerce over the past years
 
@@ -23,3 +25,9 @@ This Data Analysis projects aims to generate insight into sales performance of t
   3. Data Cleaning and Formatting
 
   ### Exploratory of Data Analysis
+😆
+😠
+
+|heading 1|heading 2|heading 3|
+|----------|-----------|----------|
+|Table 1|Table 2|Table 3|
